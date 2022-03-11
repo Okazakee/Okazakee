@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-di-carlo-7bbb70166/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okazakee&layout=compact&theme=aura_dark"/>
