@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okazakee.dev/)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUogIHMOIHwCt3dlL-_CtMg)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=okazakee&layout=compact&theme=aura_dark"/>
+
 ### Hi there 👋🏼
 
 - 🔭 I’m currently working on my personal website and my side project(CalypsoPi - proj).
 - 🌱 I’m currently learning JS, React, Node, Express.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=okazakee&layout=compact&theme=aura_dark"/>
