@@ -9,4 +9,4 @@
 ### Hi there 👋🏼
 
 - 🔭 I’m currently working on my personal website and my side project(CalypsoPi - proj).
-- 🌱 I’m currently learning JS, React, Node, Express.
+- 🌱 I’m currently learning JS, React, Node, Express, NextJS.
