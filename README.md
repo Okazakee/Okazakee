@@ -8,7 +8,7 @@
 
 ## Hi there 👋🏼
 
-### - 🔭 I’m currently working on my personal website and my side project(CalypsoPi - proj).
+### - 🔭 I’m currently working on [my personal website](https://github.com/Okazakee/website-nextjs) and my side project ["Fedora WSL Installer"](https://github.com/Okazakee/Fedora-WSL-Installer).
 ### - 🌱 I’m currently learning JavaScript, ReactJS, Node.js, Express.js, Next.js, Docker, Scripting.
 \
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okazakee&layout=compact&theme=aura"/>
