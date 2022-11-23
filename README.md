@@ -1,12 +1,56 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Okazakee#3247) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Okazakee.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okazakee) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cristian_dc) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Okazakee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@okazakee) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Okazakee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/okazakee_DEV) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCIWTGSG5sI6cjTXKQBlAo1Q)
+<h2><img align='left' src='https://img.icons8.com/fluency/32/null/conference-call.png'>Socials:</h2>
+<p align="center" margin="30px">
+  <a href='https://discord.gg/Okazakee#3247'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/discord.svg" width='8%'></a>
+  <a href='https://instagram.com/Okazakee.dev'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/instagram.svg" width='8%'></a>
+  <a href='https://linkedin.com/in/okazakee'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/linkedin.svg" width='8%'></a>
+  <a href='https://reddit.com/user/cristian_dc'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/reddit.svg" width='8%'></a>
+  <a href='https://twitter.com/okazakee_DEV'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/twitter.svg" width='8%'></a>
+  <a href='https://youtube.com/c/UCIWTGSG5sI6cjTXKQBlAo1Q'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/youtube.svg" width='8%'></a>
+</p>
 
-## Hi there 👋🏼
+### 👋🏼 Hi there!
 
 ### - 🔭 I’m currently working on [my personal website](https://github.com/Okazakee/website-nextjs) and my side project ["Fedora WSL Installer"](https://github.com/Okazakee/Fedora-WSL-Installer).
 ### - 🌱 I’m currently learning JavaScript, ReactJS, Node.js, Express.js, Next.js, Docker, Scripting.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<br/>
+
+<h2><img align='left' src='https://img.icons8.com/fluency/32/null/code-file.png'>My Projects:</h2>
+<details>
+  <summary>Expand...</summary>
+  <ul>
+  <h4><img align='left' src='https://img.icons8.com/fluency/25/null/commit-git.png'>Main projects:</h4>
+    <li><a href="https://github.com/Okazakee/okazakee-dev-website">Personal Website</a>: The project is based on creating a personal Web Platform to display myself, my projects and my passion in internet. It has 3 main pages which are: Biography, Portfolio and Blog, and an Admin panel to manage and edit posts. The website will be built using NextJS as the frontend framework, fetching data such as images links and posts markdowns that will be stored in MongoDB Atlas.</li>
+    <li><a href="https://github.com/Okazakee/Fedora-WSL-Installer">Fedora WSL Installer</a>: Install Fedora on WSL2 with powershell and Docker Desktop.</li>
+    <li><a href="https://github.com/CalypsoPi">Calypso-Pi Project</a>: This project is focused on creating a Minecraft Server connected to a Web Platform using a Single Board Computer and Docker. At the end of the above, the idea is to create a system for "Plug & Play" installation.</li>
+  <h4><img align='left' src='https://img.icons8.com/fluency/25/null/code-fork.png'>Forks:</h4>
+    <li><a href="https://github.com/Okazakee/lazymc-papermc-selectable_cpu_arch">Lazymc/Papermc Docker</a>: A Linux Docker image for the PaperMC Minecraft server with lazymc (ARM compatible).</li>
+  </ul>
+</details>
+
+<br/>
+
+<h2><img align='left' src='https://img.icons8.com/fluency/32/null/stacked-organizational-chart.png'>Tech Stack:</h2>
+<p align="center" margin="30px">
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%'></span>
+  <span><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/next-js-icon-seeklogo.com.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/vercel/next.js@3220bbaba337089624e535f2bc71623e593e725f/examples/with-cypress/public/favicon.ico" width='6%'></span>
+  <span><img src="https://www.svgrepo.com/show/353564/cloudflare.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width='6%'></span>
+  <span><img src="https://www.svgrepo.com/show/373924/nginx.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='6%'></span>
+</p>
+
 #
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=okazakee&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a align='left'>
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=okazakee&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d1117' width='55%'>
+  <img align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=okazakee&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=0d1117' width='40%'>
+  
+[comment]: <> (Social icons by Buke Icon and Jagathish Saravanan)
