@@ -50,7 +50,7 @@
 
 #
 <p align='center'>
-    <img align='center' src='https://readme-stats-personal.vercel.app/api?username=okazakee&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d1117' width='48%'>
+    <img align='center' src='https://github-readme-stats.vercel.app/api?username=okazakee&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d1117' width='48%'>
     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=okazakee&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=0d1117' width='40%'>
 </p>
   
