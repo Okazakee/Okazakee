@@ -1,11 +1,11 @@
 <h2><img align='left' src='https://img.icons8.com/fluency/32/null/conference-call.png'>Socials:</h2>
 <p align="center" margin="30px">
-  <a href='https://discord.gg/Okazakee#3247'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/discord.svg" width='8%'></a>
-  <a href='https://instagram.com/Okazakee.dev'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/instagram.svg" width='8%'></a>
-  <a href='https://linkedin.com/in/okazakee'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/linkedin.svg" width='8%'></a>
-  <a href='https://reddit.com/user/cristian_dc'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/reddit.svg" width='8%'></a>
-  <a href='https://twitter.com/okazakee_DEV'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/twitter.svg" width='8%'></a>
-  <a href='https://youtube.com/c/UCIWTGSG5sI6cjTXKQBlAo1Q'><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/youtube.svg" width='8%'></a>
+  <a href='https://discord.gg/Okazakee#3247'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/discord.svg" width='8%'></a>
+  <a href='https://instagram.com/Okazakee.dev'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/instagram.svg" width='8%'></a>
+  <a href='https://linkedin.com/in/okazakee'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/linkedin.svg" width='8%'></a>
+  <a href='https://reddit.com/user/cristian_dc'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/reddit.svg" width='8%'></a>
+  <a href='https://twitter.com/okazakee_DEV'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/twitter.svg" width='8%'></a>
+  <a href='https://youtube.com/c/UCIWTGSG5sI6cjTXKQBlAo1Q'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/youtube.svg" width='8%'></a>
 </p>
 
 ### 👋🏼 Hi there!
@@ -38,7 +38,7 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%'></span>
-  <span><img src="https://raw.githubusercontent.com/Okazakee/Global-Assets/main/next-js-icon-seeklogo.com.svg" width='6%'></span>
+  <span><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/nextjs.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/vercel/next.js@3220bbaba337089624e535f2bc71623e593e725f/examples/with-cypress/public/favicon.ico" width='6%'></span>
   <span><img src="https://www.svgrepo.com/show/353564/cloudflare.svg" width='6%'></span>
