@@ -10,7 +10,7 @@
 
 ### 👋🏼 Hi there!
 
-### - 🔭 I’m currently working on [my personal website](https://github.com/Okazakee/website-nextjs) and my side project ["Fedora WSL Installer"](https://github.com/Okazakee/Fedora-WSL-Installer).
+### - 🔭 I’m currently working on my personal [website](https://github.com/Okazakee/website-nextjs) and ["Minecraft Servers w/ lazymc using Docker"](https://github.com/Okazakee/mcserver-lazymc-docker).
 ### - 🌱 I’m currently learning JavaScript, ReactJS, Node.js, Express.js, Next.js, Docker, Scripting.
 
 <br/>
