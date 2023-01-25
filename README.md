@@ -28,7 +28,7 @@ From a young age, I have had a love for technology and have been heavily involve
     <li><a href="https://github.com/Okazakee/okazakee-dev-website">Personal Website</a>: The project is based on creating a personal Web Platform to display myself, my projects and my passion in internet. It has 3 main pages which are: Biography, Portfolio and Blog, and an Admin panel to manage and edit posts. The website will be built using NextJS as the frontend framework, fetching data such as images links and posts markdowns that will be stored in MongoDB Atlas.</li>
     <li><a href="https://github.com/Okazakee/Fedora-WSL-Installer">Fedora WSL Installer</a>: Install Fedora on WSL2 with powershell and Docker Desktop.</li>
     <li><a href="https://github.com/CalypsoPi">Calypso-Pi Project</a>: This project is focused on creating a Minecraft Server connected to a Web Platform using a Single Board Computer and Docker. At the end of the above, the idea is to create a system for "Plug & Play" installation.</li>
-  <h4><img align='left' src='https://img.icons8.com/fluency/192/null/code-fork.png' width='30vw'>Maintained Forks:</h4>
+  <h4><img align='left' src='https://img.icons8.com/fluency/192/null/code-fork.png' width='30vw'>Forks based:</h4>
     <li><a href="https://github.com/Okazakee/mcserver-lazymc-docker">Minecraft Servers w/ lazymc using Docker</a>: This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.</li>
   </ul>
 </details>
