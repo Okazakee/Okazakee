@@ -10,8 +10,13 @@
 
 ### 👋🏼 Hi there!
 
-### - 🔭 I’m currently working on my personal [website](https://github.com/Okazakee/website-nextjs) and ["Minecraft Servers w/ lazymc using Docker"](https://github.com/Okazakee/mcserver-lazymc-docker).
-### - 🌱 I’m currently learning JavaScript, ReactJS, Node.js, Express.js, Next.js, Docker, Scripting.
+My name is Cristian, also known as Okazakee on the web. At 23 years old, I am a passionate Web Developer from Italy.
+From a young age, I have had a love for technology and have been heavily involved in the IT world. I am an avid supporter of Open Source and have experience in video editing and post production. However, in late 2021, I decided to shift my focus to Web Development. I am currently working on various personal projects and aim to become a Full Stack developer in the near future. You can view my [portfolio](https://preview.okazakee.dev/Portfolio) and find my social profiles to learn more about my skills and experience.
+
+### - 🔭 Currently working on:
+- My personal [website](https://github.com/Okazakee/website-nextjs) in NextJS.
+- My main sideproject ["Minecraft Servers w/ lazymc using Docker"](https://github.com/Okazakee/mcserver-lazymc-docker).
+### - 🌱 Currently learning JavaScript, ReactJS, Node.js, Express.js, Next.js, Docker, Scripting.
 
 <br/>
 
