@@ -16,7 +16,10 @@ From a young age, I have had a love for technology and have been heavily involve
 ### - 🔭 Currently working on:
 - My personal [website](https://github.com/Okazakee/website-nextjs) in NextJS.
 - My main sideproject ["Minecraft Servers w/ lazymc using Docker"](https://github.com/Okazakee/mcserver-lazymc-docker).
-### - 🌱 Currently learning JavaScript, ReactJS, Node.js, Express.js, Next.js, Docker, Scripting.
+### - 🌱 Currently learning:
+- Next.js.
+- NestJS.
+- Kubernetes.
 
 <br/>
 
