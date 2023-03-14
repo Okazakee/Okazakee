@@ -11,7 +11,7 @@
 ### 👋🏼 Hi there!
 
 My name is Cristian, also known as Okazakee on the web. At 23 years old, I am a passionate Web Developer from Italy.
-From a young age, I have had a love for technology and have been heavily involved in the IT world. I am an avid supporter of Open Source and have experience in video editing and post production. However, in late 2021, I decided to shift my focus to Web Development. I am currently working on various personal projects and aim to become a Full Stack developer in the near future. You can view my [portfolio](https://preview.okazakee.dev/Portfolio) and find my social profiles to learn more about my skills and experience.
+From a young age, I have had a love for technology and have been heavily involved in the IT world. I am an avid supporter of Open Source and have experience in video editing and post production. However, in late 2021, I decided to shift my focus to Web Development. I am currently working on various personal projects and aim to become a Full Stack developer in the near future. You can view my [portfolio](https://okazakee.dev/portfolio) and find my social profiles to learn more about my skills and experience.
 
 ### - 🔭 Currently working on:
 - My personal [website](https://github.com/Okazakee/website-nextjs) in NextJS.
