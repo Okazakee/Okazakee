@@ -1,13 +1,3 @@
-<h2><img align='left' src='https://img.icons8.com/fluency/192/null/conference-call.png' width='30vw'>Socials:</h2>
-<p align="center" margin="30px">
-  <a href='https://discord.gg/Okazakee#3247'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/discord.svg" width='6%'></a>
-  <a href='https://instagram.com/Okazakee.dev'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/instagram.svg" width='6%'></a>
-  <a href='https://linkedin.com/in/okazakee'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/linkedin.svg" width='6%'></a>
-  <a href='https://reddit.com/user/cristian_dc'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/reddit.svg" width='6%'></a>
-  <a href='https://twitter.com/okazakee_DEV'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/twitter.svg" width='6%'></a>
-  <a href='https://youtube.com/c/UCIWTGSG5sI6cjTXKQBlAo1Q'><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/youtube.svg" width='6%'></a>
-</p>
-
 ### 👋🏼 Hi there!
 
 My name is Cristian, also known as Okazakee on the web. At 23 years old, I am a passionate Web Developer from Italy.
