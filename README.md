@@ -13,8 +13,6 @@ From a young age, I have had a love for technology and have been heavily involve
 - NestJS.
 - Kubernetes.
 
-<br/>
-
 <h2><img align='left' src='https://img.icons8.com/fluency/192/null/code-file.png' width='30vw'>My Projects:</h2>
 <details>
   <summary>Expand...</summary>
