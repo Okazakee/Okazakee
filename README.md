@@ -6,6 +6,7 @@ From a young age, I have had a love for technology and have been heavily involve
 ### - 🔭 Currently working on:
 - My personal [website](https://github.com/Okazakee/website-nextjs) in NextJS.
 - My main sideproject ["Minecraft Servers w/ lazymc using Docker"](https://github.com/Okazakee/mcserver-lazymc-docker).
+- Closed repos for [Develops](https://github.com/develops-ch).
 - Closed repos for [Entiende SRL](https://github.com/entiendesrl).
 ### - 🌱 Currently learning:
 - Next.js.
