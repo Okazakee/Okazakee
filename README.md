@@ -7,19 +7,6 @@ From a young age, I have had a love for technology and have been heavily involve
 - Closed repos for [Develops](https://github.com/develops-ch).
 - Closed repos for [Entiende SRL](https://github.com/entiendesrl).
 
-<h2><img align='left' src='https://img.icons8.com/fluency/192/null/code-file.png' width='30vw'>My Projects:</h2>
-<details>
-  <summary>Expand...</summary>
-  <ul>
-  <h4><img align='left' src='https://img.icons8.com/fluency/192/null/commit-git.png' width='30vw'>Main projects:</h4>
-    <li><a href="https://github.com/Okazakee/okazakee-dev-website">Personal Website</a>: The project is based on creating a serverless personal Web Platform to display myself, my projects and my passion in internet. It has 3 main pages which are: Biography, Portfolio and Blog, and a CMS panel to manage and edit pages data. The website is built using NextJS as the main framework, fetching data such as images links and posts markdowns that will be stored in Amazon S3 and MongoDB Atlas using Server Side Functions and Edge Functions to handle JWT authentication.</li>
-    <li><a href="https://github.com/Okazakee/Fedora-WSL-Installer">Fedora WSL Installer</a>: Install Fedora on WSL2 with powershell and Docker Desktop.</li>
-    <li><a href="https://github.com/CalypsoPi">Calypso-Pi Project</a>: This project is focused on creating a Minecraft Server connected to a Web Platform using a Single Board Computer and Docker. At the end of the above, the idea is to create a system for "Plug & Play" installation.</li>
-  <h4><img align='left' src='https://img.icons8.com/fluency/192/null/code-fork.png' width='30vw'>Forks based:</h4>
-    <li><a href="https://github.com/Okazakee/mcserver-lazymc-docker">Minecraft Servers w/ lazymc using Docker</a>: This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.</li>
-  </ul>
-</details>
-
 <br/>
 
 <h2><img align='left' src='https://img.icons8.com/fluency/192/null/stacked-organizational-chart.png' width='30vw'>Tech Stack:</h2>
