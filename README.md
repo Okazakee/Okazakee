@@ -21,6 +21,7 @@ From a young age, I have had a love for technology and have been heavily involve
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='6%'></span>
 </p>
 
 #
