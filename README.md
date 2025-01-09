@@ -12,7 +12,7 @@ From a young age, I have had a love for technology and have been heavily involve
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width='6%'></span>
   <span><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/nextjs.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='6%'></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='6%'></span>
   <span><img src="https://www.svgrepo.com/download/373872/nestjs.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='6%'></span>
   <span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width='6%'></span>
