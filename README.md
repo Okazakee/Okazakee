@@ -6,23 +6,8 @@ You can check my [portfolio](https://okazakee.dev/portfolio) and find my social 
 <br/>
 
 <h2><img align='left' src='https://img.icons8.com/fluency/192/null/stacked-organizational-chart.png' width='30vw'>Tech Stack:</h2>
-<p align="center" margin="30px">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width='6%'></span>
-  <span><img src="https://raw.githubusercontent.com/Okazakee/Okazakee/main/assets/nextjs.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='6%'></span>
-  <span><img src="https://www.svgrepo.com/download/373872/nestjs.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='6%'></span>
-  <span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/vercel/next.js@3220bbaba337089624e535f2bc71623e593e725f/examples/with-cypress/public/favicon.ico" width='6%'></span>
-  <span><img src="https://www.svgrepo.com/show/353564/cloudflare.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='6%'></span>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,yarn,next,tailwind,nest,mongo,postgres,supabase,vercel,cloudflare,docker,raspberrypi,bash,linux)](https://skillicons.dev)
 
 #
 <p align='center'>
