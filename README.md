@@ -1,7 +1,10 @@
 ### 👋🏼 Hi there!
 
-I am a 25 years old young web developer from Italy. I grew up next to my nerdy stuff since childhood, I'm an IT enthusiast and I love Open Source, I worked for years as a video editor in post production and at the end of 2021 I decided to change my path towards Web Development. I am working on several personal projects and dream to become a good Full Stack developer within a few years.
-You can check my [portfolio](https://okazakee.dev/portfolio) and find my social profiles to learn more about my skills and experience.
+I am a self-taught fullstack developer with growing experience in modern web technologies and a passion for creating intuitive, high-performance applications.
+
+Having worked with clients in various industries, I have developed adaptability and solid problem-solving skills. I take pride in translating designs into functional code and bridging the gap between design and development teams.
+
+Parallel to my work, I have a strong interest in decentralized and peer-to-peer technologies. I actively explore the Bitcoin ecosystem, Lightning Network, the Nostr protocol, and platforms such as Holepunch, seeing in these technologies the future of a more resilient, private, and user-oriented Internet.
 
 <br/>
 
