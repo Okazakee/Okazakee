@@ -10,7 +10,7 @@ Parallel to my work, I have a strong interest in decentralized and peer-to-peer 
 
 <h2><img align='left' src='https://img.icons8.com/fluency/192/null/stacked-organizational-chart.png' width='30vw'>Tech Stack:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,yarn,next,tailwind,nest,mongo,postgres,supabase,vercel,cloudflare,docker,raspberrypi,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,mongo,sqlite,postgres,supabase,vercel,docker,bash,linux)](https://skillicons.dev)
 
 #
 <p align='center'>
