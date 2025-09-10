@@ -74,11 +74,20 @@ Parallel to my work, I have a strong interest in **decentralized and peer-to-pee
 
 <div align="center">
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okazakee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=8B53FB&text_color=e8e8e8&icon_color=8B53FB)
+
+</td>
+<td align="center" width="50%">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okazakee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=8B53FB&text_color=e8e8e8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Okazakee&theme=tokyonight&hide_border=true&background=0a0a0a&stroke=8B53FB&ring=8B53FB&fire=8B53FB&currStreakNum=e8e8e8&sideNums=e8e8e8&currStreakLabel=e8e8e8&sideLabels=e8e8e8&dates=e8e8e8)
+</td>
+</tr>
+</table>
 
 </div>
 
