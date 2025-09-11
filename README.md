@@ -37,7 +37,7 @@ Parallel to my work, I have a strong interest in **decentralized and peer-to-pee
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=express)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -78,12 +78,12 @@ Parallel to my work, I have a strong interest in **decentralized and peer-to-pee
 <tr>
 <td align="center" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okazakee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=8B53FB&text_color=e8e8e8&icon_color=8B53FB)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okazakee&show_icons=true&theme=dark&hide_border=true)
 
 </td>
 <td align="center" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okazakee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=8B53FB&text_color=e8e8e8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okazakee&layout=compact&theme=dark&hide_border=true)
 
 </td>
 </tr>
@@ -107,6 +107,6 @@ Parallel to my work, I have a strong interest in **decentralized and peer-to-pee
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Okazakee&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=e8e8e8&line=8B53FB&point=e8e8e8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Okazakee&theme=github-dark&hide_border=true)
 
 </div>
