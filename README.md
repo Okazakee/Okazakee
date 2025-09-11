@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-okazakee.dev-8B53FB?style=for-the-badge&logo=vercel)](https://okazakee.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Di%20Carlo-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/okazakee)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-8B53FB?style=for-the-badge&logo=gmail)](mailto:contact@okazakee.dev)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-8B53FB?style=for-the-badge&logo=gmail)](mailto:okazakee@proton.me)
 
 ---
 
@@ -30,9 +30,9 @@ Parallel to my work, I have a strong interest in **decentralized and peer-to-pee
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
 
