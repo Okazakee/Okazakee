@@ -22,4 +22,3 @@ Parallel to my work, I have a strong interest in **decentralized and peer-to-pee
 - 📱 Developing mobile solutions with **React Native**
 - 🌐 Exploring **decentralized technologies** and P2P protocols
 - ⚡ Contributing to **Bitcoin** and **Lightning Network** ecosystem
-- 🚀 Working on **Nostr** protocol implementations
