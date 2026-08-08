@@ -1,8 +1,12 @@
+<div align="center">
+  
 ### 🏖️ Vibe-Living | Full-Stack & Mobile Developer | Bitcoin Enjoyer ⚡
 
 [![Website](https://img.shields.io/badge/Website-okazakee.dev-8B53FB?style=for-the-badge\&logo=vercel)](https://okazakee.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Di%20Carlo-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/okazakee)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-8B53FB?style=for-the-badge\&logo=gmail)](mailto:okazakee@proton.me)
+
+</div>
 
 ## 🚀 About Me
 
