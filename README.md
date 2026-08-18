@@ -60,11 +60,3 @@ The goal is not to remove myself from the development process, but to spend less
 My main development machine is a **TUXEDO InfinityBook Pro AMD**, backed by a small self-hosted setup spanning a **VPS, Raspberry Pi and homelab infrastructure**.
 
 I use it for development environments, networking, services, experimentation and hosting side projects.
-
----
-
-<div align="center">
-
-**[okazakee.dev](https://okazakee.dev)**
-
-</div>
