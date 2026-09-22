@@ -48,7 +48,7 @@ I also build and maintain open-source projects, self-hosted infrastructure and w
 
 I run a **Linux-first development environment** with AI agents integrated into my day-to-day engineering workflow.
 
-- **Pi** for agent orchestration
+- **Pi** with [custom config](https://github.com/Okazakee/pi-harness-config) for agent orchestration
 - **CommandCode GOAT** and **Codex** for coding tasks
 - Agent-based repo exploration, implementation, debugging, refactoring and review
 - Human-guided architecture, planning and verification
