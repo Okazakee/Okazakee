@@ -48,8 +48,8 @@ I also build and maintain open-source projects, self-hosted infrastructure and w
 
 I run a **Linux-first development environment** with AI agents integrated into my day-to-day engineering workflow.
 
-- **OMP** for agent orchestration
-- **OpenCode Go** and **Codex** for coding tasks
+- **Pi** for agent orchestration
+- **CommandCode GOAT** and **Codex** for coding tasks
 - Agent-based repo exploration, implementation, debugging, refactoring and review
 - Human-guided architecture, planning and verification
 
