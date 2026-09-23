@@ -4,59 +4,28 @@
 
 <br />
 
-### Full-Stack & Mobile Developer · Bitcoin Enjoyer ⚡
+### Full-Stack & Mobile Developer · Open Source · Bitcoin ⚡
 
-Building software, exploring protocols and occasionally breaking things to understand them better.
+Building software and taking side projects way further than necessary.
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-okazakee.dev-8B53FB?style=for-the-badge)](https://okazakee.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Di%20Carlo-0077B5?style=for-the-badge)](https://linkedin.com/in/okazakee)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-8B53FB?style=for-the-badge)](mailto:okazakee@proton.me)
+[![Website](https://img.shields.io/badge/WEB-8B53FB?style=flat-square&logo=googleearth&logoColor=white)](https://okazakee.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/okazakee)
+[![Email](https://img.shields.io/badge/EMAIL-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:okazakee@proton.me)
 
 </div>
 
 ## About
 
-I'm a **full-stack and mobile developer** mainly working with **TypeScript, React, Next.js, React Native and Node.js**.
+I'm a **full-stack and mobile developer**. Most of the time I'm somewhere between web, mobile, Linux, self-hosting, developer tooling and infrastructure.
 
-I like turning ideas into actual products, from web interfaces and mobile apps to APIs, infrastructure and integrations.
+I tend to build things because I need them, because existing solutions annoy me, or simply because figuring out how something works sounded like a good idea at the time.
 
-A good portion of my spare time goes into **Bitcoin, Lightning, P2P systems and decentralized protocols**, especially software focused on ownership, privacy and user control.
+That has somehow led to apps, libraries, Linux tooling, P2P experiments, infrastructure, hardware poking and the occasional piece of Rust.
+
+Lately I've been spending more time around **Bitcoin, Lightning and payment infrastructure**, along with local-first software, privacy and systems that give users more control over their stuff.
+
+I automate more than I probably should, run Linux on almost everything, and use AI agents heavily in how I build software.
 
 I also build and maintain open-source projects, self-hosted infrastructure and whatever else happens to become the next rabbit hole.
-
-## Stack
-
-**Frontend & Mobile**
-
-`TypeScript` · `React` · `Next.js` · `React Native` · `Expo`
-
-**Backend & Data**
-
-`Node.js` · `NestJS` · `REST APIs` · `PostgreSQL` · `SQLite`
-
-**Infrastructure**
-
-`Docker` · `GitHub Actions` · `Linux` · `Nginx` · `VPS / Homelab`
-
-**Currently exploring**
-
-`Bitcoin` · `Lightning` · `P2P` · `Decentralized Systems`
-
-## Development Workflow
-
-I run a **Linux-first development environment** with AI agents integrated into my day-to-day engineering workflow.
-
-- **Pi** with [custom config](https://github.com/Okazakee/pi-harness-config) for agent orchestration
-- **CommandCode GOAT** and **Codex** for coding tasks
-- Agent-based repo exploration, implementation, debugging, refactoring and review
-- Human-guided architecture, planning and verification
-
-The goal is not to remove myself from the development process, but to spend less time on mechanical work and more time on architecture, decisions and actually shipping things.
-
-## Infrastructure
-
-My main development machine is a **TUXEDO InfinityBook Pro AMD**, backed by a small self-hosted setup spanning a **VPS, Raspberry Pi and homelab infrastructure**.
-
-I use it for development environments, networking, services, experimentation and hosting side projects.
